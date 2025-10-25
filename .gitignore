@@ -1,1 +1,10 @@
 ml-zoomcamp/
+
+# Python virtual environment
+.venv/
+
+# pyenv local Python version
+.python-version
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
