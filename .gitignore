@@ -8,3 +8,7 @@ ml-zoomcamp/
 
 # Jupyter notebook checkpoints
 .ipynb_checkpoints/
+
+.vscode/
+
+hw9/hair_classifier_v1.onnx.data
